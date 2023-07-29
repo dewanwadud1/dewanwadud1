@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Abdul Wadud. I am a PhD candidate at University College Dublin, Ireland. Also, I am a Research Associate at the Bangladesh Institute of Governance and Management (BIGM).
-     I am also working as a Guest Lecturer (Remote) at Hodmas University College, Mogadishu, Somalia. 
+- 👋 Hi, I’m Abdul Wadud. I am a PhD candidate at University College Dublin, Ireland. Also, I am a Research Associate at the Bangladesh Institute of Governance and Management (BIGM). 
      I am a former Lecturer of ICT at Rajshahi Cantonment Public School and College. 
      I pursued an MSc degree in Computer Science at the Department of Computer Science, South Asian University (SAU), New Delhi, India. 
      I was awarded the prestigious President Scholarship and SAU Special Scholarship at SAU. 
